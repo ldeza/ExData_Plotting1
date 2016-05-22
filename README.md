@@ -34,3 +34,6 @@ Steps taken by each R Script
 
 ![plot4.R](plot4.png)
 
+## Contributors
+
+Leo Deza - Submission to course project 1
